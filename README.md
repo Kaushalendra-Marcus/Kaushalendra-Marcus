@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kaushalendra Singh</h1>
 <h3 align="center">A passionate Full Stack & Cloud Developer 🚀 | Tech Explorer | Open Source Contributor</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Cloud+Enthusiast+☁️;Open+Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me:
@@ -8,98 +12,102 @@
   <a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yadavkausha4a5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/Kaushal__marcus" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://kaushalendra-portfolio.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-## 🔗 Portfolio & Resume
 
-- [🌐 Portfolio Website](https://kaushalendra-portfolio.vercel.app/)
-- [📄 Resume (PDF)](https://kaushalendrasingh.tiiny.site)
+---
+
+## 🚀 Pinned Projects
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushalendra-Marcus&repo=portfolio&theme=tokyonight)](https://github.com/Kaushalendra-Marcus/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushalendra-Marcus&repo=weather-app&theme=tokyonight)](https://github.com/Kaushalendra-Marcus/weather-app)
+  
+</div>
 
 ---
 
 ### 🧠 Tech Stack
-> Languages | Frameworks | Cloud | Tools | Databases | DevOps
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,express,redux,tailwind,fastapi,mongodb,mysql,prisma,aws,azure,docker,figma,git,github,postman&theme=dark&perline=8)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&theme=radical&hide_border=false" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&theme=radical&layout=compact&hide_border=false" height="200" />
-</p>
+<div align="center">
+  
+![Kaushalendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
 ### 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaushalendra-Marcus&theme=tokyonight&hide_border=false" height="200"/>
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaushalendra-Marcus&theme=darkhub&no-frame=false&no-bg=false&margin-w=6" />
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaushalendra-Marcus&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### ✍️ Quote of the Day
+### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 🚀 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kaushalendra-Marcus&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+</div>
 
 ---
 
-### 👀 Profile Visitors
+### 🎧 Spotify Playing
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kaushalendra-Marcus&icon=5&color=0" />
-</p>
+<div align="center">
+  
+[![Spotify](https://novatorem-kaushalendra-marcus.vercel.app/api/spotify)](https://open.spotify.com/user/31v3k7d2k5vx5v4a5x5v4a5x5v4a)
+
+</div>
 
 ---
 
-<!-- Proudly made with ❤️ by Kaushalendra Singh -->
+### 👀 Profile Views
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=Kaushalendra-Marcus&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+<div align="center">
+  
+![snake gif](https://github.com/Kaushalendra-Marcus/Kaushalendra-Marcus/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+</p>
