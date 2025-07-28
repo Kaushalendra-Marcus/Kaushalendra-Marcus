@@ -17,17 +17,6 @@
 
 ---
 
-## 🚀 Pinned Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushalendra-Marcus&repo=portfolio&theme=tokyonight)](https://github.com/Kaushalendra-Marcus/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushalendra-Marcus&repo=weather-app&theme=tokyonight)](https://github.com/Kaushalendra-Marcus/weather-app)
-  
-</div>
-
----
-
 ### 🧠 Tech Stack
 <div align="center">
   
