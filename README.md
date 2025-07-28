@@ -65,15 +65,6 @@
 
 </div>
 
----
-
-### 🎧 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-kaushalendra-marcus.vercel.app/api/spotify)](https://open.spotify.com/user/31v3k7d2k5vx5v4a5x5v4a5x5v4a)
-
-</div>
 
 ---
 
@@ -85,15 +76,7 @@
 
 </div>
 
----
 
-### 🐍 Snake Eating My Contributions
-
-<div align="center">
-  
-![snake gif](https://github.com/Kaushalendra-Marcus/Kaushalendra-Marcus/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
