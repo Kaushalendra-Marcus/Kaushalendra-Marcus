@@ -57,7 +57,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 <div align="center">
   
