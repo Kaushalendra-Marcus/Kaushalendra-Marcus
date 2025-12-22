@@ -2,7 +2,7 @@
 
 **AI Engineer & Software Developer building from zero**
 
-[Twitter](https://x.com/Kaushal__marcus) • [LinkedIn](https://www.linkedin.com/in/kaushalendra-singh-45b933272/) • [GitHub](https://github.com/Kaushalendra-Marcus) • [Email](mailto:yadavkausha4a5@gmail.com)
+[Twitter](https://x.com/Kaushal__marcus) • [LinkedIn](https://www.linkedin.com/in/kaushalendra-singh-45b933272/) • [GitHub](https://github.com/Kaushalendra-Marcus) • [Email](mailto:yadavkausha4a5@gmail.com) • [Portfolio](https://kaushalendra-portfolio.vercel.app/)
 
 ## My Stack
 TypeScript • JavaScript • Python • C++ • React • Next.js • Node.js • Express • FastAPI • MongoDB • MySQL • Prisma • Tailwind • OpenCV • PyTorch • Socket.IO
