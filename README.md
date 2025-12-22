@@ -1,69 +1,52 @@
 # Kaushalendra Singh
 
-**Full Stack & Cloud Developer | Tech Explorer | Open Source Contributor**
+**AI Engineer & Software Developer building from zero**
 
-Building scalable web applications with modern technologies.
+[Twitter](https://x.com/Kaushal__marcus) • [LinkedIn](https://www.linkedin.com/in/kaushalendra-singh-45b933272/) • [GitHub](https://github.com/Kaushalendra-Marcus) • [Email](mailto:yadavkausha4a5@gmail.com)
 
----
+## My Stack
+TypeScript • JavaScript • Python • C++ • React • Next.js • Node.js • Express • FastAPI • MongoDB • MySQL • Prisma • Tailwind • OpenCV • PyTorch • Socket.IO
 
-## Connect
+## My Projects
 
-[LinkedIn](https://www.linkedin.com/in/kaushalendra-singh-45b933272/) • 
-[Email](mailto:yadavkausha4a5@gmail.com) • 
-[Twitter](https://x.com/Kaushal__marcus) • 
-[Portfolio](https://kaushalendra-portfolio.vercel.app/)
+### [SpaceSafe](https://github.com/Kaushalendra-Marcus/SpaceSafe) — Digital Twin-Enhanced Object Detection for Space Station Operations
+AI-powered safety monitoring system for space station environments using digital twin technology. Real-time object detection with YOLO and FastAPI.
 
----
-
-## Technologies
-
-**Languages:** C, C++, Python, JavaScript, TypeScript  
-**Frontend:** HTML, CSS, React, Next.js, Redux, Tailwind  
-**Backend:** Node.js, Express, FastAPI  
-**Databases:** MongoDB, MySQL, Prisma  
-**Cloud & DevOps:** AWS, Azure, Docker  
-**Tools:** Git, GitHub, Figma, Postman
-
----
-
-## Projects
-
-### SpaceSafe: Digital Twin-Enhanced Object Detection for Space Station Operations
-AI-powered safety monitoring system for space station environments using digital twin technology.
-- **Live:** [https://object-detection-project-iz9g.onrender.com](https://object-detection-project-iz9g.onrender.com)
-- **Docs:** [https://object-detection-project-iz9g.onrender.com/docs](https://object-detection-project-iz9g.onrender.com/docs)
-
-### Postly - Modern Social Media Platform
-Full-stack social media application with authentication, posting, and media uploads.
+### [Postly](https://github.com/Kaushalendra-Marcus/Postly) — Modern Social Media Platform
+Full-stack social media application with authentication, posting, media uploads, and real-time interactions. Built with Next.js, Clerk, and MongoDB.
 - **Live:** [https://postly-lake.vercel.app](https://postly-lake.vercel.app)
-- **Android:** [Download APK](https://median.co/share/epmrod#apk)
 
-### See2Say - AI Vision to Speech for Visually Impaired
-Accessibility platform converting visual content to audio narration using Computer Vision and Generative AI.
-- **Live:** (Add live link here when deployed)
+### [See2Say](https://github.com/Kaushalendra-Marcus/see2say) — AI Vision to Speech for Visually Impaired
+Accessibility platform converting visual content to audio narration using Computer Vision (BLIP) and Generative AI (Gemini).
+- **Live:** [https://see2say.vercel.app](https://see2say.vercel.app)
 
-### Cokkie Chat - Real-Time Chat Application
-MERN stack chat application with Socket.IO for instant messaging and typing indicators.
-- **Live:** (Add live link here when deployed)
+### [GRS Worker Portal](https://github.com/Kaushalendra-Marcus/grsp) — Worker Management System
+Platform for managing worker information, attendance, and payroll with administrative controls.
+- **Live:** [https://grsworker.com](https://grsworker.com)
 
----
+### [Twitter AI Bot](https://github.com/Kaushalendra-Marcus/TwitterBotAI) — AI-Powered Twitter Automation
+Automated Twitter bot with AI-generated content and scheduling capabilities.
+- **Live:** [https://twitter-bot-ai-off.vercel.app](https://twitter-bot-ai-off.vercel.app)
+
+### [Cokkie Chat](https://github.com/Kaushalendra-Marcus/chat-application) — Real-Time Chat Application
+MERN stack chat application with Socket.IO for instant messaging, typing indicators, and online status tracking.
+
+## Building From Zero
+
+I build from zero. Whether it's AI applications, full-stack platforms, or real-time systems, I work across the entire development lifecycle. From computer vision models to production deployment, I focus on creating functional, user-focused applications that solve real problems.
+
+## Currently Exploring
+
+- **Computer Vision Systems**: Implementing object detection and video analysis for practical applications
+- **AI Integration**: Building intelligent features into production applications
+- **Real-time Systems**: Developing low-latency communication platforms
+- **Full-stack Architecture**: Designing scalable, maintainable systems from frontend to deployment
+- **Cloud Deployment**: Optimizing applications for production environments
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&theme=default&hide_border=true)
-
----
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kaushalendra-Marcus&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)
-
----
-
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kaushalendra-Marcus&style=flat)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&hide_border=true)
