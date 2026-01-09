@@ -51,8 +51,9 @@ I build from zero. Whether it's AI applications, full-stack platforms, or real-t
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&hide_border=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&layout=compact&hide_border=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&hide_border=true&theme=dark)
+
