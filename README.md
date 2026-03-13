@@ -9,11 +9,15 @@
 
 ## My Stack
 
-TypeScript • JavaScript • Python • C++ • React • Next.js • Node.js • Express • FastAPI • MongoDB • MySQL • Prisma • Tailwind • OpenCV • PyTorch • Socket.IO
+TypeScript • JavaScript • Python • C++ • React • Next.js • Node.js • Express • FastAPI • MongoDB • MySQL • Prisma • Tailwind • OpenCV • PyTorch • Socket.IO • AWS • Generative AI • RAG • Agentic AI • LangChain
 
 ---
 
 ## My Projects
+
+### [Buldify Labs](https://github.com/Kaushalendra-Marcus/Buldify-Labs-AI-Business-Intelligence-Workspace) - AI Business Intelligence Workspace
+Generative AI platform that turns natural language into live, interactive business intelligence components. Ask questions in plain English and instantly get metrics, charts, comparisons, alerts, and insights - no manual dashboards needed.
+- **Live:** https://www.buildifylabs.in
 
 ### [Postly](https://github.com/Kaushalendra-Marcus/Postly) - Modern Social Media Platform
 Full-stack social media application with authentication, posting, media uploads, and real-time interactions. Built with Next.js, Clerk, and MongoDB.
@@ -53,18 +57,18 @@ I build from zero. Whether it's AI applications, full-stack platforms, or real-t
 
 ## Currently Exploring
 
+- **Generative AI and RAG Systems**: Building retrieval-augmented generation pipelines for intelligent applications
+- **Agentic AI**: Designing multi-agent systems that reason, plan, and act autonomously
+- **AWS Cloud**: Deploying and scaling production systems on AWS infrastructure
 - **Computer Vision Systems**: Implementing object detection and video analysis for practical applications
-- **AI Integration**: Building intelligent features into production applications
 - **Real-time Systems**: Developing low-latency communication platforms
-- **Full-stack Architecture**: Designing scalable, maintainable systems from frontend to deployment
-- **Cloud Deployment**: Optimizing applications for production environments
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&amp;show_icons=true&amp;count_private=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushalendra-Marcus&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalendra-Marcus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&amp;theme=dark&amp;hide_border=true&amp;background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalendra-Marcus&theme=dark&hide_border=true&background=0d1117)
