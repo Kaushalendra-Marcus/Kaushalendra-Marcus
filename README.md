@@ -3,7 +3,7 @@
 
 [Twitter](https://x.com/Kaushal__marcus) • [LinkedIn](https://www.linkedin.com/in/kaushalendra-singh-45b933272/) • [Email](mailto:yadavkausha4a5@gmail.com) • [Portfolio](https://kaushalendra-portfolio.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kaushalendra-Marcus&color=1d9bf0&style=flat&label=Profile+Views)
+![Profile Views] 1000 + (https://komarev.com/ghpvc/?username=Kaushalendra-Marcus&color=1d9bf0&style=flat&label=Profile+Views)
 
 ---
 
