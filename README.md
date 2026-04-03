@@ -25,6 +25,15 @@
 **[Buldify Labs](https://www.buildifylabs.in)**
 <sub>Natural language to live BI components. Ask in plain English, get metrics, charts, and alerts instantly.</sub>
 
+**[Attendance Tracker](https://myattendance-eta.vercel.app)**
+<sub>Real-time digital attendance with tracking and reporting.</sub>
+
+**[Postly](https://postly-lake.vercel.app)**
+<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · Clerk · MongoDB.</sub>
+
+**[GRS Worker Portal](https://grsworker.com)**
+<sub>Worker management covering attendance, payroll, and admin controls.</sub>
+
 **[TwitterBotAI](https://tweetbotai.vercel.app)**
 <sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
 
@@ -33,15 +42,6 @@
 
 **[See2Say](https://see2say.vercel.app)**
 <sub>Visual content to audio narration using CV and GenAI, built for the visually impaired.</sub>
-
-**[Postly](https://postly-lake.vercel.app)**
-<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · Clerk · MongoDB.</sub>
-
-**[GRS Worker Portal](https://grsworker.com)**
-<sub>Worker management covering attendance, payroll, and admin controls.</sub>
-
-**[Attendance Tracker](https://myattendance-eta.vercel.app)**
-<sub>Real-time digital attendance with tracking and reporting.</sub>
 
 **[Cokkie Chat](https://cokkie-chat.onrender.com)**
 <sub>MERN chat app with Socket.IO, instant messaging, and live typing.</sub>
