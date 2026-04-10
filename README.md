@@ -38,7 +38,7 @@
 <sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
 
 **[Ai-Context-Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
-<sub>Context-aware backend intelligence system that transforms raw documents into structured, actionable technical insights using RAG and vector search./sub>
+<sub>Context-aware backend intelligence system that transforms raw documents into structured, actionable technical insights using RAG and vector search.</sub>
 
 **[SpaceSafe](https://object-detection-project-iz9g.onrender.com/docs)**
 <sub>Digital twin-enhanced real-time object detection for space station safety.</sub>
