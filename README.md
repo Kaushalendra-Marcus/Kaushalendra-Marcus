@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql · prisma · pytorch · opencv · langchain · rag · agentic ai · aws · socket.io</sub>
+<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql ·pinecone ·postgresql · prisma · pytorch · opencv · langchain ·langgraph · rag ·generative ai· agentic ai · aws · socket.io</sub>
 </div>
 
 ---
@@ -36,6 +36,9 @@
 
 **[TwitterBotAI](https://tweetbotai.vercel.app)**
 <sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
+
+**[Ai-Context-Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
+<sub>Context-aware backend intelligence system that transforms raw documents into structured, actionable technical insights using RAG and vector search./sub>
 
 **[SpaceSafe](https://object-detection-project-iz9g.onrender.com/docs)**
 <sub>Digital twin-enhanced real-time object detection for space station safety.</sub>
