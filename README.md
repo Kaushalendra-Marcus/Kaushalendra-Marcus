@@ -5,7 +5,7 @@
 
 <sub>
 <a href="https://x.com/Kaushal__marcus">twitter</a> •
-<a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272/">linkedin</a> •
+<a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272">linkedin</a> •
 <a href="mailto:yadavkausha4a5@gmail.com">email</a> •
 <a href="https://kaushalendra-portfolio.vercel.app/">portfolio</a>
 </sub>
@@ -23,7 +23,7 @@
 **▸ projects**
 
 **[Buldify Labs](https://www.buildifylabs.in)**
-<sub>Natural language to live BI components. Ask in plain English, get metrics, charts, and alerts instantly.</sub>
+<sub>Buidling............</sub>
 
 **[Attendance Tracker](https://myattendance-eta.vercel.app)**
 <sub>Real-time digital attendance with tracking and reporting.</sub>
