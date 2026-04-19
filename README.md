@@ -26,10 +26,10 @@
 <sub>Buidling............</sub>
 
 **[Attendance Tracker](https://myattendance-eta.vercel.app)**
-<sub>Real-time digital attendance with tracking and reporting.</sub>
+<sub>Real-time digital attendance with tracking and reporting. 1300+ users, still growing.</sub>
 
 **[Postly](https://postly-lake.vercel.app)**
-<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · Clerk · MongoDB.</sub>
+<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · Clerk · MongoDB. 100+ users.</sub>
 
 **[GRS Worker Portal](https://grsworker.com)**
 <sub>Worker management covering attendance, payroll, and admin controls.</sub>
