@@ -37,8 +37,6 @@
 **[Ai-Context-Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
 <sub>Context-aware backend intelligence system that transforms raw documents into structured, actionable technical insights using RAG and vector search.</sub>
 
-**[TwitterBotAI](https://tweetbotai.vercel.app)**
-<sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
 
 **[TwitterBotAI](https://tweetbotai.vercel.app)**
 <sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
