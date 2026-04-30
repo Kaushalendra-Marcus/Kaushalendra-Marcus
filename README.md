@@ -15,48 +15,51 @@
 ---
 
 <div align="center">
-<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql ·pinecone ·postgresql · prisma · pytorch · opencv · langchain ·langgraph · rag ·generative ai· agentic ai · aws · socket.io</sub>
+<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql · pinecone · postgresql · prisma · pytorch · opencv · langchain · langgraph · rag · generative ai · agentic ai · aws · socket.io</sub>
 </div>
 
 ---
 
 **▸ projects**
 
-**[Buldify Labs](https://www.buildifylabs.in)**
-<sub>Buidling............</sub>
+**[RepoGraph AI - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=kaushalendra.repograph-ai)**
+<sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code — search "RepoGraph AI".</sub>
+
+**[Buildify Labs](https://www.buildifylabs.in)**
+<sub>Building AI-powered business intelligence tools that convert natural language into dynamic dashboards.</sub>
 
 **[Attendance Tracker](https://myattendance-eta.vercel.app)**
-<sub>Real-time digital attendance with tracking and reporting. 1300+ users, still growing.</sub>
+<sub>Real-time digital attendance system with tracking and reporting. 1300+ users.</sub>
 
 **[Postly](https://postly-lake.vercel.app)**
-<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · Clerk · MongoDB. 100+ users.</sub>
+<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · MongoDB · Socket.IO.</sub>
 
 **[GRS Worker Portal](https://grsworker.com)**
-<sub>Worker management covering attendance, payroll, and admin controls.</sub>
+<sub>Worker management system covering attendance, payroll, and admin operations.</sub>
 
-**[Ai-Context-Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
-<sub>Context-aware backend intelligence system that transforms raw documents into structured, actionable technical insights using RAG and vector search.</sub>
+**[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
+<sub>Context-aware backend system using RAG and vector search to transform documents into structured insights.</sub>
 
 **[TwitterBotAI](https://tweetbotai.vercel.app)**
-<sub>AI-powered tweet automation via Gemini. Supports News, RSS, custom prompts. AES-256, multi-user, production-ready.</sub>
+<sub>AI-powered tweet automation using Gemini. Supports News, RSS, and custom prompts.</sub>
 
-**[AI-Generated-note-graphs - Joplin Plugin](https://github.com/Kaushalendra-Marcus/AI-Generated-note-graphs)**
-<sub>A plugin for JOPLIN. Convert your notes into a visual network that helps you explore and expand your ideas.</sub>
+**[AI Generated Note Graphs - Joplin Plugin](https://github.com/Kaushalendra-Marcus/AI-Generated-note-graphs)**
+<sub>Joplin plugin that converts notes into visual knowledge graphs.</sub>
 
 **[SpaceSafe](https://object-detection-project-iz9g.onrender.com/docs)**
-<sub>A FastAPI and YOLO-based object detection system that uses digital twin technology to monitor space station environments for safety hazards, equipment tracking, and operational oversight.</sub>
+<sub>YOLO + FastAPI object detection system for monitoring environments and tracking safety hazards.</sub>
 
 **[See2Say](https://see2say.vercel.app)**
-<sub>Visual content to audio narration using CV and GenAI, built for the visually impaired.</sub>
+<sub>Visual content to audio narration using computer vision and generative AI.</sub>
 
 **[Cokkie Chat](https://cokkie-chat.onrender.com)**
-<sub>MERN chat app with Socket.IO, instant messaging, and live typing.</sub>
+<sub>MERN chat app with Socket.IO, real-time messaging, and live typing.</sub>
 
 ---
 
 **▸ building from zero**
 
-<sub>I build across frontend, backend, AI systems, and real-time applications. From idea to deployment to users, I focus on solving real problems instead of just shipping features.</sub>
+<sub>I build across frontend, backend, AI systems, and real-time applications. From idea to deployment to users, I focus on solving real problems.</sub>
 
 ---
 
