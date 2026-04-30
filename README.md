@@ -22,7 +22,7 @@
 
 **▸ projects**
 
-**[RepoGraph AI - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=kaushalendra.repograph-ai)**
+**[RepoGraph AI - VS Code Extension](http://repograph.kaushalendra.me/)**
 <sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code - search "RepoGraph AI".</sub>
 
 **[Buildify Labs](https://www.buildifylabs.in)**
