@@ -57,15 +57,9 @@
 
 ---
 
-**▸ building from zero**
-
-<sub>I build across frontend, backend, AI systems, and real-time applications. From idea to deployment to users, I focus on solving real problems.</sub>
-
----
-
 **▸ currently exploring**
 
-<sub>rag systems · agentic ai · computer vision · aws infrastructure · real-time systems</sub>
+<sub>Rag systems · RLM · LLM Infrastructure · SQL · </sub>
 
 ---
 
