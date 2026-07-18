@@ -26,7 +26,7 @@
 <sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code - search "RepoGraph AI".</sub>
 
 **[Buildify Labs](https://www.buildifylabs.in)**
-<sub>Building AI-powered business intelligence tools that convert natural language into dynamic dashboards.</sub>
+<sub>Building AI-powered business intelligence tools that convert natural language into dynamic dashboards and charta.</sub>
 
 **[Attendance Tracker](https://myattendance-eta.vercel.app)**
 <sub>Real-time digital attendance system with tracking and reporting. 1300+ users.</sub>
