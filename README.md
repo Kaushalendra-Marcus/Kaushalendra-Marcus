@@ -59,7 +59,7 @@
 
 **▸ currently exploring**
 
-<sub>Rag systems · RLM · LLM Infrastructure · SQL · </sub>
+<sub>Rag systems design · RLM · LLM Infrastructure · SQL · LLM Evals </sub>
 
 ---
 
