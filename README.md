@@ -4,7 +4,7 @@
 <sub>AI engineer & software developer building production systems from zero.</sub>
 
 <sub>
-<a href="https://x.com/Kaushal__marcus">X</a> •
+<a href="https://x.com/kaushalxcode">X</a> •
 <a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272">Linkedin</a> •
 <a href="mailto:yadavkausha4a5@gmail.com">Email</a> •
 <a href="https://kaushalendra.me/">Portfolio</a>
