@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql · pinecone · postgresql · prisma · pytorch · opencv · langchain · langgraph · rag · generative ai · agentic ai · aws · socket.io</sub>
+<sub>typescript · javascript · python · c++ · react · next.js · tailwind · node.js · express · fastapi · mongodb · mysql · pinecone · postgresql · prisma · pytorch · opencv · langchain · langgraph · rag · generative ai · agentic ai · aws · socket.io ·LLM Evals</sub>
 </div>
 
 ---
