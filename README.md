@@ -22,8 +22,8 @@
 
 **▸ projects**
 
-**[Evident - Extraction & Fetch layer](http://evident.kaushalendra.me/)**
-<sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code - search "RepoGraph AI".</sub>
+**[Evident - Extraction & Fetch Layer](http://evident.kaushalendra.me/)**
+<sub>Turn any URL into trusted, structured data with transparent confidence scores. Open-source, MCP-first, and built for AI agents.</sub>
 
 **[RepoGraph AI - VS Code Extension](http://repograph.kaushalendra.me/)**
 <sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code - search "RepoGraph AI".</sub>
