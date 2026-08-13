@@ -14,45 +14,33 @@
 
 ---
 
-<div align="center">
-<sub>typescript · javascript · python · c++ · react · next.js · node.js · fastapi · mongodb · postgresql · langchain · langgraph · mcp · rag · pinecone · neo4j · transformers · fine-tuning · langfuse · langsmith · aws · docker · kubernetes</sub>
-</div>
+- **AI Founding Engineer Intern @ [EpicWise](https://epicwise.io)** (Canada startup) — building the core context engine: multi-step LangGraph pipelines, a public MCP server (auth + agent-harness testing agent), and hybrid retrieval combining Pinecone vector search with Neo4j graph traversal.
 
----
+- **Frontend Developer Intern @ [FaxLab](https://www.faxlab.in/)** — shipped course catalog, auth flows, and learner dashboards (Next.js/TypeScript) for a platform used by 50K+ active learners, on time with zero QA rollbacks in a 6-week cycle.
 
-**▸ projects**
+- **[Evident](http://evident.kaushalendra.me/)** — turns any URL into structured, typed data with transparent confidence scores instead of raw scraped text. Open-source, MCP-first, exposed via REST and a Python SDK, built so AI agents know when to trust what they extract.
 
-**[Evident — Extraction & Fetch Layer](http://evident.kaushalendra.me/)**
-<sub>Turns any URL into structured, typed data with transparent confidence scores. Open-source, MCP-first, built for AI agents that need to trust what they extract.</sub>
+- **[RepoGraph AI](http://repograph.kaushalendra.me/)** — VS Code extension that maps every file relationship in a workspace into an interactive dependency graph, so engineers understand an unfamiliar codebase in minutes instead of days. Integrates 5 AI providers with a multi-turn Q&A agent; 40+ installs on the VS Code Marketplace.
 
-**[RepoGraph AI — VS Code Extension](http://repograph.kaushalendra.me/)**
-<sub>Interactive dependency graphs and AI-powered codebase Q&A for faster onboarding. 5 AI providers supported, zero telemetry. 40+ installs on the VS Code Marketplace.</sub>
+- **[Buildify Labs](https://www.buildifylabs.in)** — agentic BI platform where a LangGraph (ReAct) agent converts natural language into SQL and live dashboards, with short + long-term memory for multi-step, follow-up queries.
 
-**[Buildify Labs](https://www.buildifylabs.in)**
-<sub>Agentic BI platform — LangGraph (ReAct) turns natural language into SQL and live dashboards, with short + long-term memory across sessions.</sub>
+- **[GRS Worker Portal](https://grsworker.com)** — production worker-management system (attendance, payroll, admin) for a live business. Zod validation across all API routes cut data errors by 40%; Dockerized CI/CD for zero-downtime releases.
 
-**[GRS Worker Portal](https://grsworker.com)**
-<sub>Production worker-management system (attendance, payroll, admin). Cut data errors 40% with structured validation; Dockerized CI/CD.</sub>
+- **[Attendance Tracker](https://myattendance-eta.vercel.app)** — real-time PWA attendance system with RBAC and Redis-cached, concurrency-optimized MongoDB queries. 1300+ active users.
 
-**[Attendance Tracker](https://myattendance-eta.vercel.app)**
-<sub>Real-time PWA attendance system. 1300+ users, Redis-cached, RBAC.</sub>
+- **[Postly](https://postly-lake.vercel.app)** — real-time social platform on Socket.IO with Kafka-based async event processing. 200+ users.
 
-**[Postly](https://postly-lake.vercel.app)**
-<sub>Real-time social platform — Socket.IO, event-driven backend, Kafka-based async processing. 200+ users.</sub>
+- **[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)** — context-aware backend using RAG and vector search to turn raw documents into structured, queryable insights.
 
-**[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
-<sub>Context-aware backend using RAG and vector search to transform documents into structured insights.</sub>
+- **[TwitterBotAI](https://tweetbotai.vercel.app)** — AI-powered tweet automation on Gemini, pulling from News, RSS, and custom-prompt sources.
 
-**[TwitterBotAI](https://tweetbotai.vercel.app)**
-<sub>AI-powered tweet automation using Gemini — News, RSS, and custom-prompt sources.</sub>
+- 7 PRs into **[Joplin](https://github.com/laurent22/joplin)** (54K+ stars) — 2 merged, including a desktop renderer crash fix and a OneNote import bug fix, reviewed by upstream maintainers.
 
----
+Currently exploring **agent reliability & evals**, **fine-tuning small models for narrow tasks**, and **graph-based retrieval at scale**.
 
-**▸ currently exploring**
+### Tech Stack
 
-<sub>Agent reliability & evals · fine-tuning small models for narrow tasks · LLM infra (LangSmith/Langfuse tracing) · graph-based retrieval at scale</sub>
-
----
+`TypeScript` `JavaScript` `Python` `C++` `React` `Next.js` `Node.js` `FastAPI` `MongoDB` `PostgreSQL` `LangChain` `LangGraph` `MCP` `RAG` `Pinecone` `Neo4j` `Transformers` `Fine-tuning` `Langfuse` `LangSmith` `AWS` `Docker` `Kubernetes`
 
 <div align="center">
 <sub><img src="https://komarev.com/ghpvc/?username=Kaushalendra-Marcus&color=1d9bf0&style=flat&label=profile+views" /></sub>
