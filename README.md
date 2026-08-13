@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Kaushalendra Singh</h1>
 
-<sub>AI engineer & software developer building production systems from zero.</sub>
+<sub>Building AI agents that reason over real context — MCP servers, retrieval pipelines, and the backends underneath them.</sub>
 
 <sub>
 <a href="https://x.com/kaushalxcode">X</a> •
-<a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272">Linkedin</a> •
+<a href="https://www.linkedin.com/in/kaushalendra-singh-45b933272">LinkedIn</a> •
 <a href="mailto:yadavkausha4a5@gmail.com">Email</a> •
 <a href="https://kaushalendra.me/">Portfolio</a>
 </sub>
@@ -14,55 +14,49 @@
 
 ---
 
+**▸ currently**
+
+<sub>AI Founding Engineer Intern @ <a href="https://epicwise.io">EpicWise</a> (Canada) — building the core context engine: LangGraph pipelines, a public MCP server, and hybrid Pinecone + Neo4j retrieval.</sub>
+
+---
+
 <div align="center">
-<sub>typescript · javascript · python · c++ · react · next.js · node.js · fastapi · mongodb · sql · pinecone · prisma · pytorch · transformers · langchain · langgraph · langfuse · rag · generative ai · agentic ai · aws ·LLM Evals</sub>
+<sub>typescript · javascript · python · c++ · react · next.js · node.js · fastapi · mongodb · postgresql · langchain · langgraph · mcp · rag · pinecone · neo4j · transformers · fine-tuning · langfuse · langsmith · aws · docker · kubernetes</sub>
 </div>
 
 ---
 
 **▸ projects**
 
-**[Evident - Extraction & Fetch Layer](http://evident.kaushalendra.me/)**
-<sub>Turn any URL into trusted, structured data with transparent confidence scores. Open-source, MCP-first, and built for AI agents.</sub>
+**[Evident — Extraction & Fetch Layer](http://evident.kaushalendra.me/)**
+<sub>Turns any URL into structured, typed data with transparent confidence scores. Open-source, MCP-first, built for AI agents that need to trust what they extract.</sub>
 
-**[RepoGraph AI - VS Code Extension](http://repograph.kaushalendra.me/)**
-<sub>Understand any codebase instantly with AI-powered dependency graphs, file summaries, and codebase Q&A. Built for faster onboarding and deep code understanding. Also available inside VS Code - search "RepoGraph AI".</sub>
+**[RepoGraph AI — VS Code Extension](http://repograph.kaushalendra.me/)**
+<sub>Interactive dependency graphs and AI-powered codebase Q&A for faster onboarding. 5 AI providers supported, zero telemetry. 40+ installs on the VS Code Marketplace.</sub>
 
 **[Buildify Labs](https://www.buildifylabs.in)**
-<sub>Building AI-powered business intelligence tools that convert natural language into dynamic dashboards and charta.</sub>
-
-**[Attendance Tracker](https://myattendance-eta.vercel.app)**
-<sub>Real-time digital attendance system with tracking and reporting. 1300+ users.</sub>
-
-**[Postly](https://postly-lake.vercel.app)**
-<sub>Full-stack social platform with auth, media uploads, and real-time interactions. Next.js · MongoDB · Socket.IO.</sub>
+<sub>Agentic BI platform — LangGraph (ReAct) turns natural language into SQL and live dashboards, with short + long-term memory across sessions.</sub>
 
 **[GRS Worker Portal](https://grsworker.com)**
-<sub>Worker management system covering attendance, payroll, and admin operations.</sub>
+<sub>Production worker-management system (attendance, payroll, admin). Cut data errors 40% with structured validation; Dockerized CI/CD.</sub>
 
-**[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
-<sub>Context-aware backend system using RAG and vector search to transform documents into structured insights.</sub>
+**[Attendance Tracker](https://myattendance-eta.vercel.app)**
+<sub>Real-time PWA attendance system. 1300+ users, Redis-cached, RBAC.</sub>
 
-**[TwitterBotAI](https://tweetbotai.vercel.app)**
-<sub>AI-powered tweet automation using Gemini. Supports News, RSS, and custom prompts.</sub>
+**[Postly](https://postly-lake.vercel.app)**
+<sub>Real-time social platform — Socket.IO, event-driven backend, Kafka-based async processing.</sub>
 
-**[AI Generated Note Graphs - Joplin Plugin](https://github.com/Kaushalendra-Marcus/AI-Generated-note-graphs)**
-<sub>Joplin plugin that converts notes into visual knowledge graphs.</sub>
+---
 
-**[SpaceSafe](https://object-detection-project-iz9g.onrender.com/docs)**
-<sub>YOLO + FastAPI object detection system for monitoring environments and tracking safety hazards.</sub>
+**▸ open source**
 
-**[See2Say](https://see2say.vercel.app)**
-<sub>Visual content to audio narration using computer vision and generative AI.</sub>
-
-**[Cokkie Chat](https://cokkie-chat.onrender.com)**
-<sub>MERN chat app with Socket.IO, real-time messaging, and live typing.</sub>
+<sub>7 PRs into <a href="https://github.com/laurent22/joplin">Joplin</a> (54K+ stars) — 2 merged, including a desktop renderer crash fix and a OneNote import bug fix, reviewed by upstream maintainers.</sub>
 
 ---
 
 **▸ currently exploring**
 
-<sub>Rag systems design · RLM · LLM Infrastructure · SQL · LLM Evals </sub>
+<sub>Agent reliability & evals · fine-tuning small models for narrow tasks · LLM infra (LangSmith/Langfuse tracing) · graph-based retrieval at scale</sub>
 
 ---
 
