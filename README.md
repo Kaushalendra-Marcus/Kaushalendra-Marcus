@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Kaushalendra Singh</h1>
 
-<sub>Building AI agents that reason over real context — MCP servers, retrieval pipelines, and the backends underneath them.</sub>
+<sub>AI engineer & software developer building agentic systems — from context engines to production backends.</sub>
 
 <sub>
 <a href="https://x.com/kaushalxcode">X</a> •
@@ -11,12 +11,6 @@
 </sub>
 
 </div>
-
----
-
-**▸ currently**
-
-<sub>AI Founding Engineer Intern @ <a href="https://epicwise.io">EpicWise</a> (Canada) — building the core context engine: LangGraph pipelines, a public MCP server, and hybrid Pinecone + Neo4j retrieval.</sub>
 
 ---
 
@@ -44,13 +38,13 @@
 <sub>Real-time PWA attendance system. 1300+ users, Redis-cached, RBAC.</sub>
 
 **[Postly](https://postly-lake.vercel.app)**
-<sub>Real-time social platform — Socket.IO, event-driven backend, Kafka-based async processing.</sub>
+<sub>Real-time social platform — Socket.IO, event-driven backend, Kafka-based async processing. 200+ users.</sub>
 
----
+**[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)**
+<sub>Context-aware backend using RAG and vector search to transform documents into structured insights.</sub>
 
-**▸ open source**
-
-<sub>7 PRs into <a href="https://github.com/laurent22/joplin">Joplin</a> (54K+ stars) — 2 merged, including a desktop renderer crash fix and a OneNote import bug fix, reviewed by upstream maintainers.</sub>
+**[TwitterBotAI](https://tweetbotai.vercel.app)**
+<sub>AI-powered tweet automation using Gemini — News, RSS, and custom-prompt sources.</sub>
 
 ---
 
