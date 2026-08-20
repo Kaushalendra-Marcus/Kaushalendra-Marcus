@@ -27,7 +27,7 @@
 - **[GRS Worker Portal](https://grsworker.com)** — production worker-management system for attendance, payroll, and admin operations.
 - **[Attendance Tracker](https://myattendance-eta.vercel.app)** — real-time PWA attendance system with role-based access control.
 - **[Postly](https://postly-lake.vercel.app)** — real-time social platform using Socket.IO with Kafka-based async event processing.
-- **[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)** — RAG + vector search backend that turns documents into structured insights using algo.
+- **[AI Context Engine](https://github.com/Kaushalendra-Marcus/ai-context-engine)** — RAG + vector search backend that turns documents into structured insights.
 - **[TwitterBotAI](https://tweetbotai.vercel.app)** — AI-powered tweet automation using Gemini, pulling from news and RSS sources.
 - Contributor to **[Joplin](https://github.com/laurent22/joplin)** — pull requests merged into the desktop app and sync engine by upstream maintainers.
 
