@@ -31,7 +31,7 @@
 - **[TwitterBotAI](https://tweetbotai.vercel.app)** — AI-powered tweet automation using Gemini, pulling from news and RSS sources.
 - Contributor to **[Joplin](https://github.com/laurent22/joplin)** — pull requests merged into the desktop app and sync engine by upstream maintainers.
 
-Currently exploring **agent reliability & evals, fine-tuning small models, and graph-based retrieval at scale.**
+Currently exploring **agent reliability & evals, fine-tuning small models, and graph-based retrieval at scale**
 
 ---
 
