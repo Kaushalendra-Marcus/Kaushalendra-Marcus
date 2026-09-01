@@ -66,7 +66,7 @@ Currently exploring **agent reliability & evals, fine-tuning small models, and g
 
 <sub align="center">
 
-Also working with: **LangGraph · MCP · RAG · Pinecone · Fine-tuning**
+Also working with: **LangGraph · MCP · RAG · Pinecone · Fine-tuning · LLM Evals**
 
 </sub>
 
