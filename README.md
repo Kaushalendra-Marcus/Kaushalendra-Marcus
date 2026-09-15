@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&height=55&lines=Kaushalendra+Singh" alt="Kaushalendra Singh" />
@@ -59,6 +60,7 @@ Currently exploring **agent reliability & evals, fine-tuning small models, and g
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-2D2D2D?style=flat&logo=langfuse&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-6B46C1?style=flat&logo=deepeval&logoColor=white)
 
 </div>
 
@@ -66,7 +68,7 @@ Currently exploring **agent reliability & evals, fine-tuning small models, and g
 
 <sub align="center">
 
-Also working with: **LangGraph · MCP · RAG · Pinecone · Fine-tuning · LLM Evals**
+Also working with: **LangGraph · MCP · RAG · Pinecone · DeepEval · Fine-tuning · LLM Evals**
 
 </sub>
 
