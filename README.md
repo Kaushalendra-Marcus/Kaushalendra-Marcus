@@ -21,7 +21,7 @@
 ### About Me
 
 - **AI Engineer @ [EpicWise](https://epicwise.io)** — building the core context engine: LangGraph pipelines, a public MCP server, and hybrid Pinecone + Neo4j retrieval.
-- **Frontend Developer Intern @ [FaxLab](https://www.faxlab.in/)** — shipped course catalog, auth, and dashboards for an AI course platform, with zero QA rollbacks.
+- **Backend Developer Intern @ [FaxLab](https://www.faxlab.in/)** — shipped course catalog, auth, and dashboards for an AI course platform, with zero QA rollbacks.
 - **[Evident](http://evident.kaushalendra.me/)** — turns any URL into structured, typed data with transparent confidence scores for AI agents.
 - **[RepoGraph AI](http://repograph.kaushalendra.me/)** — VS Code extension that turns any codebase into an interactive dependency graph with AI Q&A.
 - **[Buildify Labs](https://www.buildifylabs.in)** — LangGraph (ReAct) agent that converts natural language into SQL and live dashboards.
