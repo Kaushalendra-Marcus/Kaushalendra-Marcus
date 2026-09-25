@@ -25,7 +25,7 @@
 - **[Evident](http://evident.kaushalendra.me)** — turns any URL into structured, typed data with transparent confidence scores for AI agents.
 - **[RepoGraph AI](http://repograph.kaushalendra.me/)** — VS Code extension that turns any codebase into an interactive dependency graph with AI Q&A.
 - **[Buildify Labs](https://www.buildifylabs.in)** — LangGraph (ReAct) agent that converts natural language into SQL and live dashboards.
-- **[Lips Sync Tracker](https://www.buildifylabs.in)** - Keyframe-based face tracking annotation tool for lip-sync: draw, move & resize speaker bounding boxes with forward-fill (no interpolation), mark absent segments, and export per-frame pickle.
+- **[Lips Sync Face Tracker]https://github.com/Kaushalendra-Marcus/lipsync-face-tracker)** - Keyframe-based face tracking annotation tool for lip-sync: draw, move & resize speaker bounding boxes with forward-fill (no interpolation), mark absent segments, and export per-frame pickle.
 - **[GRS Worker Portal](https://grsworker.com)** — production worker-management system for attendance, payroll, and admin operations.
 - **[Attendance Tracker](https://myattendance-eta.vercel.app)** — real-time PWA attendance system with role-based access control.
 - **[Postly](https://postly-lake.vercel.app)** — real-time social platform using Socket.IO with Kafka-based async event processing.
