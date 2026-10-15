@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&height=55&lines=Kaushalendra+Singh" alt="Kaushalendra Singh" />
 
-<sub>AI engineer & software developer building agentic systems — from context engines to production backends.</sub>
+<sub>AI engineer & software developer building agentic systems - from context engines to production backends along with evaluation.</sub>
 
 <br />
 
