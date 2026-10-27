@@ -23,7 +23,7 @@
 - **AI Engineer @ [EpicWise](https://epicwise.io)** — building the core context engine: LangGraph pipelines, a public MCP server, and hybrid Pinecone + Neo4j retrieval.
 - **Backend Developer Intern @ [FaxLab](https://www.faxlab.in)** — shipped course catalog, auth, and dashboards for an AI course platform, with zero QA rollbacks.
 - **[Evident](http://evident.kaushalendra.me)** — turns any URL into structured, typed data with transparent confidence scores for AI agents.
-- **[RepoGraph AI](http://repograph.kaushalendra.me/)** — VS Code extension that turns any codebase into an interactive dependency graph with AI Q&A.
+- **[RepoGraph AI](http://repograph.kaushalendra.me/)** — VS Code extension that turns mapped as a live dependency graph and answered with file:line proof. And your AI agent gets a one-file brief that cuts its context tokens by up to 40%. Right inside VS Code — install once, use it in every project.
 - **[Buildify Labs](https://www.buildifylabs.in)** — LangGraph (ReAct) agent that converts natural language into SQL and live dashboards.
 - **[Lips Sync Face Tracker](https://github.com/Kaushalendra-Marcus/lipsync-face-tracker)** - Keyframe-based face tracking annotation tool for lip-sync: draw, move & resize speaker bounding boxes with forward-fill (no interpolation), mark absent segments, and export per-frame pickle.
 - **[InvoiceGuard-AI](invoiceguard-ai-tech.vercel.app/)** — ai-powered invoice and Purchase Order (PO) mismatch detection tool inspired by the finance automation workflows offered by peakflo
