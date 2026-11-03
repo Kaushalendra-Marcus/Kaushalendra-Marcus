@@ -18,6 +18,7 @@
 
 ---
 
+
 ### About Me
 
 - **AI Engineer @ [EpicWise](https://epicwise.io)** — building the core context engine: LangGraph pipelines, a public MCP server, and hybrid Pinecone + Neo4j retrieval.
